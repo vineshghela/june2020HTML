@@ -1,0 +1,36 @@
+
+body{
+    background-color: black;
+}
+h1{
+    color: green;
+}
+
+ul>li{
+    color:red;
+}
+
+
+
+#myp1{
+    color: blue;
+    background-color: aqua;
+}
+#myp2{
+    color: black;
+}
+#myp3{
+    color: orange;
+}
+#myp4{
+    color: yellowgreen;
+}
+
+.textStuff{
+    font-family:sans-serif;
+    background-color: darkorchid;
+}
+
+div>p{
+    background-color: white;
+}
