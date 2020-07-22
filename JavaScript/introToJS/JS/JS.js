@@ -1,5 +1,4 @@
 
-
 // console.log(`the sum is :${letsAdd(10,25)}`);
 
 // function letsAdd(a,b){
@@ -77,5 +76,5 @@ newPuppy.eating();
 newPuppy.hungry();
 newPuppy.speak();
 
-
+export default pet;
 

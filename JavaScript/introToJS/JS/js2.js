@@ -1,3 +1,4 @@
+import pet from './JS.js';
 class dog extends pet{
     constructor(name, tricks) {
         super(name); // Calls the super constructor and assigns the attribute.
@@ -19,3 +20,6 @@ class dog extends pet{
     let doggy = new dog("Bark Wahlberg", "Backflip");
     doggy.hungry();
     doggy.speak();
+
+
+    export default dog;
